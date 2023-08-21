@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yusmy1
+- 👀 I’m interested in working with Python and Power BI
+- 🌱 I’m currently learning Power BI
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me by mail. barriosyus@gmail.com
